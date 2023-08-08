@@ -44,3 +44,7 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
+
+fun Modifier.addAdjustbleSize(){
+    //this is just  a test
+}
