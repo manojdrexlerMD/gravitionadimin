@@ -47,3 +47,8 @@ fun GreetingPreview() {
     }
 }
 
+@Composable
+fun TextScwa() {
+    Text(text = "Fuck Mee....")
+}
+
