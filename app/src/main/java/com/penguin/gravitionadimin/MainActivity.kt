@@ -50,10 +50,3 @@ fun TextScwa() {
     Text(text = "Fuck Mee....")
 }
 
-@Composable
-fun TextScwssa() {
-    Text(text = "Fuck Mee....hahahaa")
-}
-
-
-
