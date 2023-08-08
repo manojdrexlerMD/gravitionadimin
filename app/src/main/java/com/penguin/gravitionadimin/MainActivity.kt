@@ -23,6 +23,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
+                    //this is called some changes
+                    print("contain second commit ")
                 }
             }
         }
